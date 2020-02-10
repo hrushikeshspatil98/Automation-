@@ -8,3 +8,11 @@ print("a: ",a)
 print("b: ",b)
 print("c: ",c)
 print("d: ",d)
+
+"""
+Output:
+a:  4
+b:  45.0
+c:  4
+d:  (5+6j)
+"""
