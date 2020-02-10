@@ -1,0 +1,40 @@
+#Multilevel level inheritance
+
+class Shape:
+    
+    def display(self):
+        print("Shape <- ")
+    
+class Rectangle(Shape):
+        l=10
+        b=20
+    
+        def calcArea(self):
+            print("Area of Rectangle is: ",(self.l*self.b))
+                
+        def displayType(self):
+            print("Rectangle <-")
+
+class ColoredRectangle(Rectangle):
+        col="Red"
+        
+        def displaySubType(self):
+            print("ColoredRectangle")
+        
+        def colorOfRectangle(self):
+            print("Color of Rectangle is: ",self.col)
+        
+cr=ColoredRectangle()
+cr.display()
+cr.displayType()
+cr.displaySubType()
+cr.calcArea()
+cr.colorOfRectangle()
+
+""" Output: 
+Shape <- 
+Rectangle <-
+ColoredRectangle
+Area of Rectangle is:  200
+Color of Rectangle is:  Red
+"""
