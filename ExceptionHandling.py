@@ -12,9 +12,12 @@ except:
     print("Something else went wrong")
 else:
     print("Nothing went wrong")
+finally:
+  print("The try...except block is finished")
     
 """
 Output:
 -5
 Something else went wrong
+The try...except block is finished
 """
