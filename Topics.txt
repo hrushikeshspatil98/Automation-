@@ -35,3 +35,4 @@ File Handling:
  - File Copy
  - File or Dir Delete
 GUI using Tkinter
+Multithreading
