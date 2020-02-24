@@ -30,7 +30,8 @@ month=int(input())
 year=int(input())
 userInpDate=datetime.datetime(year,month,day)
 print("User Date: ",userInpDate)
-
+#Getting Week of the Year
+print(userInpDate.isocalendar())
 #Compare two dates
 if dt(dt.now().year,dt.now().month,dt.now().day,9)<userInpDate.now()<dt(dt.now().year,dt.now().month,dt.now().day,18):  
     print("Working hours")  
@@ -48,5 +49,6 @@ Enter current day, month, year one by one:
 2
 2020
 User Date:  2020-02-24 00:00:00
+(2020, 9, 1)
 Working hours
 """
