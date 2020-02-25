@@ -4,14 +4,14 @@
 
 1) variables
 2) casting
-3) conditional branching
-  if- else if- else,
+3) conditional branching :
+  if- elif- else,
   pass stmt
 4) looping:
   for and while loop,
   break,
   continue
-5) functions
+5) functions :
   function and function in function
 6) tuples
 7) sets : set and frozenset
