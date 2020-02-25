@@ -1,42 +1,43 @@
 # Python_Programming
 
-Table of contents:
+# Table of contents:
 
-variables
-casting
-conditional branching
+1.variables
+2.casting
+3.conditional branching
  - if- else if- else
  - pass stmt
-looping:
+4.looping:
  - for and while loop
  - break
  - continue
-functions
+5.functions
  - function and function in function
-tuples
-sets : set and frozenset
-dictionaries : simple and nested
-lists or arrays : single Dim and Multi Dim
-TKinter GUI
+6.tuples
+7.sets : set and frozenset
+8.dictionaries : simple and nested
+9.lists or arrays : single Dim and Multi Dim
+10.TKinter GUI
 OOP:
-1) Inheritance
+11) Inheritance
     - Single level
     - Multilevel 
     - Multiple
     - Method Overidding
-2) Encapsulation
-3) Abstraction
-4) Polymorphism
-scope
-recursion
-Exception Handling
+12) Encapsulation
+13) Abstraction
+14) Polymorphism
+15) scope
+16) recursion
+17) Exception Handling
  - try, except, else, finally
  - Custom Exception Handling
-Lambda Function
-File Handling:
+18) Lambda Function
+19) File Handling:
  - File Read
  - File Write
  - File Copy
  - File or Dir Delete
-GUI using Tkinter
-Multithreading
+20) GUI using Tkinter
+21) Multithreading
+22) Strings
