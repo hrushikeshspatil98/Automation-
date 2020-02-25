@@ -39,5 +39,5 @@
   File Copy,
   File or Dir Delete
 20) GUI using Tkinter
-21) Multithreading
+21) Multithreading : Threading, Synchronization
 22) Strings
