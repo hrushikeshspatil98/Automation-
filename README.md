@@ -8,8 +8,8 @@
   if- else if- else,
   pass stmt
 4) looping:
-  for and while loop
-  break
+  for and while loop,
+  break,
   continue
 5) functions
   function and function in function
@@ -18,7 +18,7 @@
 8) dictionaries : simple and nested
 9) lists or arrays : single Dim and Multi Dim
 10)TKinter GUI
-- OOP:
+- OOP: (11 to 14)
 11) Inheritance
      Single level,
      Multilevel, 
@@ -31,7 +31,7 @@
 15) scope
 16) recursion
 17) Exception Handling :
-  try, except, else, finally
+  try, except, else, finally,
   Custom Exception Handling
 18) Lambda Function
 19) File Handling :
