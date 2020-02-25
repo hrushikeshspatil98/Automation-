@@ -7,7 +7,7 @@
 3) Conditional branching :
   if- elif- else,
   pass stmt
-4) Looping:
+4) Looping :
   for and while loop,
   break,
   continue
