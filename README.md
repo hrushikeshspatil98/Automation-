@@ -18,8 +18,8 @@
 8) dictionaries : simple and nested
 9) lists or arrays : single Dim and Multi Dim
 10)TKinter GUI
-- OOP: (11 to 14)
-11) Inheritance
+OOP: (11 to 14)
+11) Inheritance :
      Single level,
      Multilevel, 
      Multiple,
