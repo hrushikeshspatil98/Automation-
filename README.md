@@ -5,7 +5,7 @@
 1) variables
 2) casting
 3) conditional branching
-  if- else if- else
+  if- else if- else,
   pass stmt
 4) looping:
   for and while loop
@@ -20,23 +20,24 @@
 10)TKinter GUI
 - OOP:
 11) Inheritance
-     Single level
-     Multilevel 
-     Multiple
+     Single level,
+     Multilevel, 
+     Multiple,
      Method Overidding
 12) Encapsulation
 13) Abstraction
 14) Polymorphism
+
 15) scope
 16) recursion
-17) Exception Handling
+17) Exception Handling :
   try, except, else, finally
   Custom Exception Handling
 18) Lambda Function
-19) File Handling:
-  File Read
-  File Write
-  File Copy
+19) File Handling :
+  File Read,
+  File Write,
+  File Copy,
   File or Dir Delete
 20) GUI using Tkinter
 21) Multithreading
