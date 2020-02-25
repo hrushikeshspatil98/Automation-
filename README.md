@@ -2,23 +2,23 @@
 
 # Table of contents:
 
-1.variables
-2.casting
-3.conditional branching
+1) variables
+2) casting
+3) conditional branching
   if- else if- else
   pass stmt
-4.looping:
+4) looping:
   for and while loop
   break
   continue
-5.functions
+5) functions
   function and function in function
-6.tuples
-7.sets : set and frozenset
-8.dictionaries : simple and nested
-9.lists or arrays : single Dim and Multi Dim
-10.TKinter GUI
-OOP:
+6) tuples
+7) sets : set and frozenset
+8) dictionaries : simple and nested
+9) lists or arrays : single Dim and Multi Dim
+10)TKinter GUI
+- OOP:
 11) Inheritance
      Single level
      Multilevel 
