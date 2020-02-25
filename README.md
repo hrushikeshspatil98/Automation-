@@ -24,7 +24,7 @@
      Multilevel, 
      Multiple,
      Method Overidding
-12) Encapsulation
+12) Encapsulation : Class, Object, Constuctor and Destructor
 13) Abstraction
 14) Polymorphism
 15) scope
