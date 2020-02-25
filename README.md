@@ -16,7 +16,7 @@
 6) Tuples
 7) Sets : set and frozenset
 8) Dictionaries : simple and nested
-9) Lists or arrays : single Dim and Multi Dim
+9) Lists or arrays : single Dim and multi Dim
 10) TKinter GUI
 - OOP: (11 to 14)
 11) Inheritance :
