@@ -14,8 +14,8 @@ looping:
 functions
  - function and function in function
 tuples
-sets - set and frozenset
-dictionaries - simple and nested
+sets : set and frozenset
+dictionaries : simple and nested
 lists or arrays : single Dim and Multi Dim
 TKinter GUI
 OOP:
