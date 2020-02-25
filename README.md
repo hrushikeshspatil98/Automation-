@@ -2,21 +2,21 @@
 
 # Table of contents:
 
-1) variables
-2) casting
-3) conditional branching :
+1) Variables
+2) Casting
+3) Conditional branching :
   if- elif- else,
   pass stmt
-4) looping:
+4) Looping:
   for and while loop,
   break,
   continue
-5) functions :
+5) Functions :
   function and function in function
-6) tuples
-7) sets : set and frozenset
-8) dictionaries : simple and nested
-9) lists or arrays : single Dim and Multi Dim
+6) Tuples
+7) Sets : set and frozenset
+8) Dictionaries : simple and nested
+9) Lists or arrays : single Dim and Multi Dim
 10) TKinter GUI
 - OOP: (11 to 14)
 11) Inheritance :
@@ -27,8 +27,8 @@
 12) Encapsulation : Class, Object, Constuctor and Destructor
 13) Abstraction
 14) Polymorphism
-15) scope
-16) recursion
+15) Scope
+16) Recursion
 17) Exception Handling :
   try, except, else, finally,
   Custom Exception Handling
