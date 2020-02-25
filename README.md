@@ -18,7 +18,7 @@
 8) dictionaries : simple and nested
 9) lists or arrays : single Dim and Multi Dim
 10)TKinter GUI
-OOP: (11 to 14)
+- OOP: (11 to 14)
 11) Inheritance :
      Single level,
      Multilevel, 
@@ -27,7 +27,6 @@ OOP: (11 to 14)
 12) Encapsulation
 13) Abstraction
 14) Polymorphism
-
 15) scope
 16) recursion
 17) Exception Handling :
