@@ -7,7 +7,7 @@ import os
 print(os.name)
 print("Current Working Directory is:",os.getcwd()) #Displays Current Working Directory of the file
 
-fd="D:\\HP00661153\\TECHM\\a.txt"
+fd="D:\\Hrushi\\T\\a.txt"
 # Checking path exits or not with os.F_OK   
 path=os.access(fd,os.F_OK)   
 print("Exist path:",path)   
@@ -22,18 +22,17 @@ path=os.access(fd,os.X_OK)
 print("access to exicute te path:",path)  
 
 #a file or directory can be renamed by using os.rename() fn,if user has rights to change file
-os.rename(fd,"D:\\HP00661153\\TECHM\\b.txt")
+os.rename(fd,"D:\\Hrushi\\T\\b.txt")
 print("File renamed from a.txt to b.txt") 
 
 #a file or directory is removed by using remove() and rmdir() fn respectively.
-os.remove("D:\\HP00661153\\TECHM\\b.txt")
-os.rmdir("D:\\HP00661153\\TECHM\\a")
+os.remove("D:\\Hrushi\\T\\b.txt")
+os.rmdir("D:\\Hrushi\\T\\a")
 
 """
 Output:
-
 nt
-Current Working Directory is: C:\Users\HP00661153\.spyder-py3
+Current Working Directory is: C:\Users\Hrushi\.spyder-py3
 Exist path: True
 access to read the file: True
 access to write the file: True
