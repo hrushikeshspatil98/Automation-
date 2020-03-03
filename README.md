@@ -42,3 +42,5 @@
 21) Multithreading : Threading, Synchronization
 22) Strings
 23) Date and Time
+24) Modules :
+    statistics, math, random, os
