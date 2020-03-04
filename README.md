@@ -2,7 +2,7 @@
 
 # Table of contents:
 
-1) Variables
+1) Variables and Operators
 2) Casting
 3) Conditional branching :
   if- elif- else,
@@ -45,4 +45,6 @@
 24) Modules :
     statistics, math, random, os
 25) Database Connectivity
-26) Command Line Arguments
+26) Iterators
+27) Generators
+28) Command Line Arguments
