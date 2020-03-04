@@ -1,6 +1,13 @@
-#Generators
-#Python Generators are the functions that return the traversal object and used to create iterators.
-#It traverses the entire items at once.
+'''
+Generators:
+Python Generators are the functions that return the traversal object and used to create iterators.
+It traverses the entire items at once.
+yield:
+      The yield statement is responsible for controlling the flow of the generator function. 
+      It pauses the function execution by saving all states and yielded to the caller. 
+      Later it resumes execution when a successive function is called. 
+      We can use the multiple yield statement in the generator function.
+'''
 
 def table(n):  
     for i in range(1,11):  
