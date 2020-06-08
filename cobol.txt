@@ -1,0 +1,49 @@
+Write a COBOL program and compile to get a load module. Execute through JCL to get the result.
+Requirement for program is as follows:-
+Create a sequential file for FB, 50 byes and add some example records and input file format can be-
+Field	
+Type	
+Length	GROUP item
+
+StudentId	
+9	
+7	No
+StudentName			Yes
+Surname	X	20	No
+
+Initials	
+X	
+10	No
+DateOfBirth			Yes
+Year	9	4	No
+Month	9	2	No
+
+Day	
+9	
+2	No
+CourseCode	X	4	No
+Gender	X	1	No
+
+
+	Write a COBOL program to reads the above sequential file and display the StudentId, StudentName and the CourseCode of each record in the file. Count the number of Male and Female students and display at the end for count of each Male and Female students
+	Write a COBOL program to accept student records from the user and write them to another file.  The program should keep accepting records from the user until spaces are entered instead of a record (i.e.the Enter key is pressed without having entered any data).  
+Example Run
+Please enter the student record using the template below.
+Press the Enter key with no data to stop.
+nnnnnnnSSSSSSSSiiG
+9765321COUGHLANMSM
+9787654RYAN    GTF
+9734563POWER   RGM
+9734562SMITH   WBM
+9765341KENNEDY DSF
+    enter
+	Further to this, Add code to your program (or write a separate program) to read the file you have just created(highlighted in yellow above) and display the records.  Display the records as shown in the example run below:
+Example Run
+Stud-Id  Student Name Gender
+9765321  COUGHLAN MS    M
+9787654  RYAN     GT    F
+9734563  POWER    RG    M
+9734562  SMITH    WB    M
+9765341  KENNEDY  DS    F
+
+	Write a new program to accept date from SYSTEM(will be in Gregorian format) and call a sub program to convert this date to JULIAN DATE, pass the result back to main program and display the result of JULIAN DATE in main program.
